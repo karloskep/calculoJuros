@@ -1,2 +1,0 @@
-# calculoJuros
-Programa Java
